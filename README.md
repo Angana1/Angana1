@@ -1,5 +1,5 @@
 ## Hi, I am Angana 👋
-I am a graduate from IIT Kharagpur, and am currently working as a Quant Associate at Morgan Stanley. I am passionate about exploring the applications of data science, AI, ML and statistics in different fields. Please feel free to browse my academic and industrial projects.
+I am a graduate from IIT Kharagpur, and am currently working as a Quant Associate at Morgan Stanley. I am passionate about exploring the applications of data science, AI, ML and statistics in different fields, such as time-series analysis, computer vision and healthcare analytics. Please feel free to browse my academic and industrial projects.
 <br>
 Publications: [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=0slaJrkAAAAJ)
 
