@@ -1,5 +1,5 @@
 ## Hi, I am Angana 👋
-I am currently a Data Science Master's student at EPFL. I graduated from IIT Kharagpur, and have 2 years of work experience as a Quant Associate at Morgan Stanley. I am passionate about exploring real-world applications of data science, AI, ML and statistics in time-series analysis, computer vision and healthcare analytics. Please feel free to browse my academic and industrial projects.
+I am currently a Data Science Master's student at EPFL. I graduated from IIT Kharagpur, and have 2 years of work experience as a Quant Associate at Morgan Stanley. I am passionate about exploring real-world applications of AI/ML in time-series analysis, computer vision and healthcare analytics. Please feel free to browse my academic and industrial projects.
 <br>
 LinkedIn: [Profile](https://www.linkedin.com/in/anganmon/)
 </br>
