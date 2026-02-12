@@ -1,9 +1,8 @@
 ## Hi, I am Angana 👋
 I am currently a Data Science Master's student at EPFL. I graduated from IIT Kharagpur, and have 2 years of work experience as a Quant Associate at Morgan Stanley. I am passionate about exploring real-world applications of AI/ML in time-series analysis, computer vision and healthcare analytics. Please feel free to browse my academic and industrial projects.
 <br>
-LinkedIn: [Profile](https://www.linkedin.com/in/anganmon/)
+Check out my work at: [Projects List](https://github.com/Angana1/project_portfolio/blob/main/README.md) | [LinkedIn](https://www.linkedin.com/in/anganmon/) | [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=0slaJrkAAAAJ)
 </br>
-Publications: [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=0slaJrkAAAAJ)
 
 <!--
 **Angana1/Angana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
